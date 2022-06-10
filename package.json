@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/KrissFT/server#readme",
   "dependencies": {
+    "@types/cors": "^2.8.12",
     "@types/express": "^4.17.13",
     "body-parser": "^1.20.0",
     "cors": "^2.8.5",
